@@ -1,0 +1,12 @@
+{
+"app_name": "",
+"api_key":"", 
+"api_secret_key": "",
+"access_token": "",
+"access_secret_token":"",
+"oauth_token_secret": "",
+"user_id": "", 
+"oauth_token": "", 
+"screen_name": "",
+"link": "https://twython.readthedocs.io/en/latest/usage/starting_out.html"
+} 
